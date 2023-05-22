@@ -1,0 +1,128 @@
+.hobbies__container {
+    grid-template-columns: repeat(2, 270px);
+    justify-content: center;
+    column-gap: 1,8rem;
+}
+
+/* for pencil icon */
+.icon {
+    display: block;
+    font-size: 4rem;
+    color: var(--title-color);
+    margin-bottom: 20px;
+    width: 40px;
+    height: 40px;
+} 
+.hobbies__title {
+    font-size: var(--h3-font-size);
+    margin-bottom: var(--md-2);
+    font-weight: var(--h1-font-size);
+}
+#art__insta {
+  margin-left: 20px;
+}
+
+.hobbies__modal-content {
+    position: relative;
+    background-color: transparent;
+    /* padding: 0.5rem 2.5rem 3.5rem; */
+    border-radius: 1.5rem;
+}
+.hobbies__modal-close {
+    position: fixed;
+    top: 3.5rem;
+    right: 3.3rem;
+    left: relative;
+    font-size: 1.5rem;
+    color: var(--title-color);
+    cursor: pointer;
+    color: #d4d4d4;
+}
+.hobbies__description {
+    position: relative;
+    top: -14rem;
+    justify-content: center;
+    font-size: 1.8rem;
+    color: #ffffffc2;
+}
+.disp__sketches-container {
+  padding-top: 8rem;
+  position: absolute;
+}
+
+
+
+
+/* for FSketch , CSketch , VideoData----------------------------------------------------------------------------------- */
+
+/* for card size */
+.carrosel-geral {
+  position: relative;
+  width: 20.8rem;
+  height: 26rem;
+  perspective: 600px;
+  transform-style: preserve-3d;
+}
+
+/* paragraph text */
+.cartao {
+  width: 100%;
+  height: 100%;
+  padding: 2rem;
+  /* background-color: hsl(200deg, 40%, calc(100% - var(--abs-compensacao) * 50%)); */
+  border-radius: 1rem;
+  color: #9ca3af;
+  text-align: justify;
+  transition: all 0.3s ease-out;
+  background-size: contain;
+}
+
+/* arrow */
+.navegacao {
+  color: rgba(255, 255, 255, 0.139);
+  font-size: 3rem;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 50%;
+  z-index: 2;
+  cursor: pointer;
+  user-select: none;
+  background: unset;
+  border: unset;
+  padding: 11rem;
+}
+
+.navegacao.esquerda {
+  transform: translateX(-100%) translatey(-50%);
+}
+.navegacao.direita {
+  right: 0;
+  transform: translateX(100%) translatey(-50%);
+}
+
+
+/* ================== BREAKPOINTS ================== */
+/* for large devices */
+@media screen and (max-width: 992px) {
+  .hobbies__container {
+    grid-template-columns: repeat(2, 270px);
+    
+}
+}
+@media screen and (max-width: 576px) {
+  .hobbies__container {
+    grid-template-columns: repeat(1, 270px);
+  }
+  
+}
+
+/* for small devices */
+@media screen and (max-width: 350px) {
+  .icon {
+    height: 30px;
+    width: 30px;
+  } 
+}
+
