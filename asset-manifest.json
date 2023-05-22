@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Chayan-Portfolio-Website/static/css/main.01761cf1.css",
-    "main.js": "/Chayan-Portfolio-Website/static/js/main.1684da1b.js",
+    "main.js": "/Chayan-Portfolio-Website/static/js/main.de187bfd.js",
     "static/media/Sketch6.jpeg": "/Chayan-Portfolio-Website/static/media/Sketch6.bfa991b9ad96ae5713c2.jpeg",
     "static/media/Sketch8.jpeg": "/Chayan-Portfolio-Website/static/media/Sketch8.de4d1e3092cfa6bbc112.jpeg",
     "static/media/Sketch20.jpeg": "/Chayan-Portfolio-Website/static/media/Sketch20.26c6106eb5fe1fb17622.jpeg",
@@ -70,10 +70,10 @@
     "static/media/testimonial1.jpg": "/Chayan-Portfolio-Website/static/media/testimonial1.ab3235cfb951b759080a.jpg",
     "index.html": "/Chayan-Portfolio-Website/index.html",
     "main.01761cf1.css.map": "/Chayan-Portfolio-Website/static/css/main.01761cf1.css.map",
-    "main.1684da1b.js.map": "/Chayan-Portfolio-Website/static/js/main.1684da1b.js.map"
+    "main.de187bfd.js.map": "/Chayan-Portfolio-Website/static/js/main.de187bfd.js.map"
   },
   "entrypoints": [
     "static/css/main.01761cf1.css",
-    "static/js/main.1684da1b.js"
+    "static/js/main.de187bfd.js"
   ]
 }
