@@ -200,7 +200,7 @@ export const projectsData = [
       title: "Portfolio Website",
       description: "React JS, CSS3, Swiper.JS, Email.JS",
       demo:"https://chayankm.github.io/Chayan-Portfolio-Website/",
-      code:"https://github.com/ChayanKM/Vibes-Ecommerce-Website.git",
+      code:"https://github.com/ChayanKM/Chayan-Portfolio-Website.git",
       category: "web",
     },
     // {
