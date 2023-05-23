@@ -126,7 +126,7 @@
 }
 
 /* for small devices */
-@media screen and (max-width: 393px) {
+@media screen and (max-width: 477px) {
     .qualification__data {
         gap: 0.5rem;
     }

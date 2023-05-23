@@ -119,22 +119,29 @@
 }
 
 /* for small devices */
-@media screen and (max-width: 393px) {
+@media screen and (max-width: 412px) {
   .icon {
     height: 30px;
     width: 30px;
   } 
   .carrosel-geral {
-    width: 17.65rem;
-    height: 22rem;
+    width: 20.8rem;
+    height: 26rem;
   }
   .navegacao {
-    padding: .3rem;
-    color: rgba(0, 0, 0, 0.5);
+    padding: 1rem;
+    color: rgba(0, 0, 0, 0.755);
+  }
+  .navegacao.esquerda {
+    transform: translateX(-70%) translatey(-50%);
+  }
+  .navegacao.direita {
+    right: 0;
+    transform: translateX(70%) translatey(-50%);
   }
   .hobbies__modal-close {
-    top: 5.5rem;
+    top: 7.5rem;
     right: 3rem;
-}
+  }
 }
 
