@@ -13,7 +13,7 @@ const Data = () => {
         </h3>
         
         <p className="home__description">
-            I'm creative frontend developer based in Bengaluru, and I'm very passionate and dedicated to my work.
+            I'm a creative frontend developer based in Bengaluru, and I'm very passionate and dedicated to my work.
         </p>
     
         <a href="#contact" className="button button--flex">
