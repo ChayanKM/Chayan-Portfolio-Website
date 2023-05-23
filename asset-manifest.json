@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Chayan-Portfolio-Website/static/css/main.20715f18.css",
-    "main.js": "/Chayan-Portfolio-Website/static/js/main.a2234936.js",
+    "main.css": "/Chayan-Portfolio-Website/static/css/main.ecbe4b4b.css",
+    "main.js": "/Chayan-Portfolio-Website/static/js/main.e2bd710c.js",
     "static/media/Sketch6.jpeg": "/Chayan-Portfolio-Website/static/media/Sketch6.bfa991b9ad96ae5713c2.jpeg",
     "static/media/Sketch8.jpeg": "/Chayan-Portfolio-Website/static/media/Sketch8.de4d1e3092cfa6bbc112.jpeg",
     "static/media/Sketch20.jpeg": "/Chayan-Portfolio-Website/static/media/Sketch20.26c6106eb5fe1fb17622.jpeg",
@@ -63,17 +63,20 @@
     "static/media/java.png": "/Chayan-Portfolio-Website/static/media/java.ddf8676bd569fe01ab44.png",
     "static/media/sql-server.png": "/Chayan-Portfolio-Website/static/media/sql-server.12a5bb8211f8fa5d8f72.png",
     "static/media/github.png": "/Chayan-Portfolio-Website/static/media/github.a855c3975c028d8069f5.png",
+    "static/media/after-effects.png": "/Chayan-Portfolio-Website/static/media/after-effects.7ac2b381ef11241beb23.png",
     "static/media/html.png": "/Chayan-Portfolio-Website/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/photoshop.png": "/Chayan-Portfolio-Website/static/media/photoshop.339f174c692e921a204a.png",
     "static/media/css-3.png": "/Chayan-Portfolio-Website/static/media/css-3.463e319bad8e0edf1ef7.png",
     "static/media/bootstrap.png": "/Chayan-Portfolio-Website/static/media/bootstrap.268c4375260420e8d982.png",
     "static/media/js.png": "/Chayan-Portfolio-Website/static/media/js.3dfb665e058d08c99f28.png",
     "static/media/testimonial1.jpg": "/Chayan-Portfolio-Website/static/media/testimonial1.ab3235cfb951b759080a.jpg",
+    "static/media/premiere-pro.png": "/Chayan-Portfolio-Website/static/media/premiere-pro.19f116f90f8973a256b5.png",
     "index.html": "/Chayan-Portfolio-Website/index.html",
-    "main.20715f18.css.map": "/Chayan-Portfolio-Website/static/css/main.20715f18.css.map",
-    "main.a2234936.js.map": "/Chayan-Portfolio-Website/static/js/main.a2234936.js.map"
+    "main.ecbe4b4b.css.map": "/Chayan-Portfolio-Website/static/css/main.ecbe4b4b.css.map",
+    "main.e2bd710c.js.map": "/Chayan-Portfolio-Website/static/js/main.e2bd710c.js.map"
   },
   "entrypoints": [
-    "static/css/main.20715f18.css",
-    "static/js/main.a2234936.js"
+    "static/css/main.ecbe4b4b.css",
+    "static/js/main.e2bd710c.js"
   ]
 }
