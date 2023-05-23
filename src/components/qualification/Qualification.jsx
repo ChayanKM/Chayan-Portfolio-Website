@@ -66,7 +66,7 @@ const Qualification = () => {
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">Pure Science</h3>
-                <span className="qualification__subtitle"> Higher Secondary in Barasat P.C.S Government High School</span>
+                <span className="qualification__subtitle"> Higher Secondary in Barasat P.C.S. Government High School</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> 2017
                 </div>
@@ -87,7 +87,7 @@ const Qualification = () => {
 
               <div>
                 <h3 className="qualification__title">Pure Science</h3>
-                <span className="qualification__subtitle"> Secondary in Barasat P.C.S Government High School</span>
+                <span className="qualification__subtitle"> Secondary in Barasat P.C.S. Government High School</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> 2015
                 </div>
