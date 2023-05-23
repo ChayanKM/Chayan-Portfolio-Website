@@ -194,25 +194,26 @@
 
 
 /* for small devices */
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 477px) {
     .home__data {
-        margin-left: 0rem;
+        margin-left: 0;
     }
     .home__social {
         margin-left: 0.6rem;
     }
     .home__img {
-        width: 180px;
-        height: 180px;
+        width: 270px;
+        height: 270px;
     }
     .home__title {
-        font-size: 29px;
+        font-size: 38px;
         margin-bottom:20px;
     }
     .button {
         height: 40px;
-        width: 140px;
+        width: 180px;
         padding: 1rem 1rem;
+        justify-content: center;
     }
 }
 

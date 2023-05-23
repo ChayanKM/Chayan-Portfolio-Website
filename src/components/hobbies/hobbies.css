@@ -119,10 +119,22 @@
 }
 
 /* for small devices */
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 393px) {
   .icon {
     height: 30px;
     width: 30px;
   } 
+  .carrosel-geral {
+    width: 17.65rem;
+    height: 22rem;
+  }
+  .navegacao {
+    padding: .3rem;
+    color: rgba(0, 0, 0, 0.5);
+  }
+  .hobbies__modal-close {
+    top: 5.5rem;
+    right: 3rem;
+}
 }
 

@@ -75,7 +75,6 @@
     height: 13px;
     background-color: var(--text-color);
     border-radius: 50%;
-    
 }
 /* ::-webkit-scrollbar {
     overflow-x: hidden;
@@ -127,22 +126,23 @@
 }
 
 /* for small devices */
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 393px) {
     .qualification__data {
         gap: 0.5rem;
     }
+    
     .qualification__title {
-        font-size:10px;
+        font-size:15px;
         font-weight: var(--font-normal);
     }
     
     .qualification__subtitle {
         display: inline-block;
-        font-size: 9px;
+        font-size: 14px;
         margin-bottom: var(--md-1);
     }
     
     .qualification__calender {
-        font-size: 9px;
+        font-size: 14px;
     }
 }
