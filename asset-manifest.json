@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Chayan-Portfolio-Website/static/css/main.01761cf1.css",
-    "main.js": "/Chayan-Portfolio-Website/static/js/main.607a730a.js",
+    "main.js": "/Chayan-Portfolio-Website/static/js/main.5c1095fd.js",
     "static/media/Sketch6.jpeg": "/Chayan-Portfolio-Website/static/media/Sketch6.bfa991b9ad96ae5713c2.jpeg",
     "static/media/Sketch8.jpeg": "/Chayan-Portfolio-Website/static/media/Sketch8.de4d1e3092cfa6bbc112.jpeg",
     "static/media/Sketch20.jpeg": "/Chayan-Portfolio-Website/static/media/Sketch20.26c6106eb5fe1fb17622.jpeg",
@@ -43,7 +43,7 @@
     "static/media/work11.jpg": "/Chayan-Portfolio-Website/static/media/work11.2b9e182a2190fdf1d2ed.jpg",
     "static/media/work17.jpg": "/Chayan-Portfolio-Website/static/media/work17.8bc48d8c8190e1b05799.jpg",
     "static/media/work13.jpg": "/Chayan-Portfolio-Website/static/media/work13.be4979f99358a3b3d1a7.jpg",
-    "static/media/ChayanKM-CV.pdf": "/Chayan-Portfolio-Website/static/media/ChayanKM-CV.1b095728752030b52342.pdf",
+    "static/media/ChayanKr.Mondal_Resume.pdf": "/Chayan-Portfolio-Website/static/media/ChayanKr.Mondal_Resume.f18a55684c7613fc5027.pdf",
     "static/media/work23.jpg": "/Chayan-Portfolio-Website/static/media/work23.c8f460fb34be19f6441a.jpg",
     "static/media/work12.jpg": "/Chayan-Portfolio-Website/static/media/work12.10254bb877589ebe71b4.jpg",
     "static/media/work22.jpg": "/Chayan-Portfolio-Website/static/media/work22.6a1ff65859c780e5a67a.jpg",
@@ -70,10 +70,10 @@
     "static/media/testimonial1.jpg": "/Chayan-Portfolio-Website/static/media/testimonial1.ab3235cfb951b759080a.jpg",
     "index.html": "/Chayan-Portfolio-Website/index.html",
     "main.01761cf1.css.map": "/Chayan-Portfolio-Website/static/css/main.01761cf1.css.map",
-    "main.607a730a.js.map": "/Chayan-Portfolio-Website/static/js/main.607a730a.js.map"
+    "main.5c1095fd.js.map": "/Chayan-Portfolio-Website/static/js/main.5c1095fd.js.map"
   },
   "entrypoints": [
     "static/css/main.01761cf1.css",
-    "static/js/main.607a730a.js"
+    "static/js/main.5c1095fd.js"
   ]
 }
