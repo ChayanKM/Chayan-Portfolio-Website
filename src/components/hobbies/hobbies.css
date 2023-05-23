@@ -133,14 +133,14 @@
     color: rgba(98, 98, 98, 0.837);
   }
   .navegacao.esquerda {
-    transform: translateX(-50%) translatey(-50%);
+    transform: translateX(-40%) translatey(-50%);
   }
   .navegacao.direita {
     right: 0;
-    transform: translateX(50%) translatey(-50%);
+    transform: translateX(40%) translatey(-50%);
   }
   .hobbies__modal-close {
-    top: 4.5rem;
+    top: 3.5rem;
     right: 3rem;
   }
 }

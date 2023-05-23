@@ -2,6 +2,7 @@ import React from 'react'
 import "./skills.css"
 import Frontend from './Frontend'
 import Backend from './Backend'
+import Application from './Application'
 import LA from "../../assets/arrow-back-ios.png"
 import RA from "../../assets/arrow-forward-ios.png"
 
@@ -15,6 +16,7 @@ const Skills = () => {
             
             <Frontend/>
             <Backend/>
+            <Application/>
             
         </div>
     
