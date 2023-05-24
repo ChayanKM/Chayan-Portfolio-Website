@@ -21,8 +21,8 @@ const About = () => {
 
                 <p className="about__description">
                 Front-end developer, I create a fully responsive portfolio web page with React Js and UI / UX user interface, 
-                I made some games like candy-crash, tic tac toe, snake, floppy bird and some application like calculator, OTP generator, 
-                login page, credit card payment page, music player, video gallery like YouTube, piano and a Ecommerce Website by using 
+                I made some games like candy-crash, tic tac toe, snake, flappy bird and some application like calculator, OTP generator, 
+                login page, credit card payment page, music player, video gallery like YouTube, piano and a E-commerce Website by using 
                 HTML, CSS and Java Script.
                 </p>
 

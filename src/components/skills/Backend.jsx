@@ -9,27 +9,19 @@ const Backend = () => {
 
         <div className="skills__box">
             <div className="skills__group">
-                {/* <div className="skills__data">
-                    <i className="bx bx-badge-check"></i>
-
-                    <div className="skills__descp">
-                        <he className="skills__name">Node Js</he>
-                        <span className="skills__level">Basic</span>
-                    </div>
-                </div> */}
 
                 <div className="skills__data">
-                    {/* <i className="bx bx-badge-check"></i> */}
                     <img src={JAVA} className='icon__skills' />
 
                     <div className="skills__descp">
-                        <he className="skills__name">JAVA</he>
+                        <he className="skills__name">Java</he>
                         <span className="skills__level">Intermediate</span>
                     </div>
                 </div>
+            </div>
 
+            <div className="skills__group">
                 <div className="skills__data">
-                    {/* <i className="bx bx-badge-check"></i> */}
                     <img src={SQL} className='icon__skills' />
 
                     <div className="skills__descp">

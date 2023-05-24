@@ -86,8 +86,8 @@ const Qualification = () => {
               </div>
 
               <div>
-                <h3 className="qualification__title">Pure Science</h3>
-                <span className="qualification__subtitle"> Secondary in Barasat <br></br>P.C.S. Government High <br></br>School</span>
+                <h3 className="qualification__title">Science</h3>
+                <span className="qualification__subtitle"> Secondary in Barasat <br></br>P.C.S. Government<br></br> High School</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> 2015
                 </div>

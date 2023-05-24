@@ -35,7 +35,7 @@ const Application = () => {
 
                 <div className="skills__descp">
                     <he className="skills__name">After Effects</he>
-                    <span className="skills__level">Intermediate</span>
+                    <span className="skills__level">Basic</span>
                 </div>
             </div>
         </div>
@@ -45,7 +45,7 @@ const Application = () => {
 
                 <div className="skills__descp">
                     <he className="skills__name">Lightroom</he>
-                    <span className="skills__level">Basic</span>
+                    <span className="skills__level">Intermediate</span>
                 </div>
             </div>
 

@@ -35,7 +35,7 @@ const Footer = () => {
                 </a>
             </div>
 
-            <span className="footer__copy">&#169; Chayan Kumar Mondal, 1998</span>
+            <span className="footer__copy">&#169; 2023,Chayan Kr. Mondal, ReactJs CSS3 Portfolio Website</span>
         </div>
     </footer>
   )

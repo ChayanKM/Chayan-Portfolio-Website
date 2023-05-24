@@ -119,7 +119,7 @@
 }
 
 /* for small devices */
-@media screen and (max-width: 412px) {
+@media screen and (max-width: 414px) {
   .icon {
     height: 30px;
     width: 30px;
