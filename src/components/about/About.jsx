@@ -28,7 +28,7 @@ const About = () => {
 
                 <div className='resume__container'>
                 <div className='resume__button'>
-                <a href={CV} className="button button--flex">
+                <a download="" href={CV} className="button button--flex">
                     Download CV
                     <svg 
                     class="button__icon" 
@@ -44,7 +44,7 @@ const About = () => {
                   </a>
                 </div>
                 <div className='resume__button'>
-                <a download="" href="https://chayankm.github.io/Responsive-Resume-CV-Chayan/" className="button button--flex">
+                <a href="https://chayankm.github.io/Responsive-Resume-CV-Chayan/" className="button button--flex">
                       View CV
                       <svg
                           class="button__icon"
