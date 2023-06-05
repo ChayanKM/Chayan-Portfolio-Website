@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Chayan-Portfolio-Website/static/css/main.2b3afc53.css",
-    "main.js": "/Chayan-Portfolio-Website/static/js/main.dfbe3a51.js",
+    "main.js": "/Chayan-Portfolio-Website/static/js/main.a82fbc7e.js",
     "static/media/Sketch6.jpeg": "/Chayan-Portfolio-Website/static/media/Sketch6.bfa991b9ad96ae5713c2.jpeg",
     "static/media/Sketch8.jpeg": "/Chayan-Portfolio-Website/static/media/Sketch8.de4d1e3092cfa6bbc112.jpeg",
     "static/media/Sketch20.jpeg": "/Chayan-Portfolio-Website/static/media/Sketch20.26c6106eb5fe1fb17622.jpeg",
@@ -73,10 +73,10 @@
     "static/media/premiere-pro.png": "/Chayan-Portfolio-Website/static/media/premiere-pro.19f116f90f8973a256b5.png",
     "index.html": "/Chayan-Portfolio-Website/index.html",
     "main.2b3afc53.css.map": "/Chayan-Portfolio-Website/static/css/main.2b3afc53.css.map",
-    "main.dfbe3a51.js.map": "/Chayan-Portfolio-Website/static/js/main.dfbe3a51.js.map"
+    "main.a82fbc7e.js.map": "/Chayan-Portfolio-Website/static/js/main.a82fbc7e.js.map"
   },
   "entrypoints": [
     "static/css/main.2b3afc53.css",
-    "static/js/main.dfbe3a51.js"
+    "static/js/main.a82fbc7e.js"
   ]
 }
