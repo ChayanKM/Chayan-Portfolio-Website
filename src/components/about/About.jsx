@@ -28,7 +28,7 @@ const About = () => {
 
                 <div className='resume__container'>
                 <div className='resume__button'>
-                <a download="" href={CV} className="button button--flex">
+                <a href={CV} className="button button--flex">
                     Download CV
                     <svg 
                     class="button__icon" 
